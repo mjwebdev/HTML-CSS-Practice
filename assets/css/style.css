@@ -1,0 +1,82 @@
+/* BEGIN OF TOP HEADER */
+header {
+	background: -webkit-linear-gradient(rgb(104,0,0),rgb(144,0,0)); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(rgb(104,0,0),rgb(144,0,0)); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(rgb(104,0,0),rgb(144,0,0)); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(rgb(104,0,0),rgb(144,0,0)); /* Standard syntax */
+}
+.logo {
+	width: 100%;
+	height: 55px;
+}
+.logo img {
+	margin-top: -30px;
+}
+
+button {
+	display: inline-block;
+	vertical-align: top;
+	float: right;
+	margin-top: 10px;
+}
+input {
+	margin-top: 10px;
+	margin-right: 10px;
+	height: 10px;
+}
+.btn {
+	color: rgb(104,0,0);
+	font-weight: bold;
+}
+.form-control {
+	width: 200px;
+	float: right;
+}
+.search {
+	margin-top: 35px;
+}
+/* END OF TOP HEADER */
+
+/* BEGIN NAVBAR */
+
+/* BEGIN LEFT NAVIGATION */
+.vertical-nav {
+	display: inline-block;
+	width: 200px;
+	height: 260px;
+	border: 1px solid silver;
+	background-color: rgba(184,184,184,.3);
+	margin-top: 20px;
+}
+.vertical-nav ul {
+	padding-top: 20px;
+}
+.vertical-nav ul {
+	list-style-type: none;
+	margin-left: -15px;
+	padding-right: 10px;
+}
+.vertical-nav ul li {
+	padding-top: 5px;
+}
+/* START OF MAIN CONTENT */
+.content {
+	display: inline-block;
+	vertical-align: top;
+	width: 800px;
+	margin-left: 50px;
+}
+h1,
+h2,
+h3 {
+	color: rgb(104,0,0);
+}
+
+
+
+
+
+
+
+
+
